@@ -1,4 +1,4 @@
-# Proyecto_app_cardiología
+# Proyecto_App_cardiología
 ## Objetivo del Proyecto
 El presente repositorio contiene la planificación directiva y documental para el desarrollo de una aplicación móvil orientada a pacientes con patologías cardíacas. El objetivo clínico de la herramienta es facilitar el registro diario de constantes vitales (tensión arterial y frecuencia cardíaca) y la evaluación de sintomatología asociada (disnea y fatiga), permitiendo la generación de informes estandarizados para su posterior análisis en la consulta de cardiología.
 
